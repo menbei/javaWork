@@ -41,6 +41,7 @@ public class Main {
 		sHero1.attack();
 		sHero1.run();
 
+
 //		// おばけキノコの生成、初期値セット
 //		Matango matango1 = new Matango();
 //		matango1.setHp(50);
